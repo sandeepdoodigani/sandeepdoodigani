@@ -6,7 +6,7 @@ I'm Sandeep Doodigani working as DevOps Engineer and I always willing to learn a
 [![dev.to badge](https://img.shields.io/badge/linkedin-sandeepdoodigani-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-doodigani/)
 
 - ⚡️ Programming Languages & Tools: Expertise in C & C++, Java, Python, having experience in Android Studio, Arduino, Eclipse, Pycharm.
-- 💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
+- 💻 All of my projects are available 👉  [here](https://github.com/sandeepdoodigani?tab=repositories)
 
 <br>
 
