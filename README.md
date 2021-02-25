@@ -7,6 +7,7 @@ I'm Sandeep Doodigani working as DevOps Engineer and I always willing to learn a
 
 - ⚡️ Programming Languages & Tools: Expertise in C & C++, Java, Python, having experience in Android Studio, Arduino, Eclipse, Pycharm.
 - 💻 All of my projects are available 👉  [here](https://github.com/sandeepdoodigani?tab=repositories)
+- 💻 Cloud Platforms: Amazon Web Services (AWS), IBM Bluemix, ThingSpeak, Ubidots, GCM, Google Firebase etc.
 
 <br>
 
