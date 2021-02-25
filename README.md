@@ -1,16 +1,17 @@
+<img src= "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = "250">
+
 ### Hi there 👋
+I'm Rammohan Bethi working as Machine Learning Engineer and I always willing to learn and work across new technologies and domains. <br/> <br/>
 
-<!--
-**sandeepdoodigani/sandeepdoodigani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![dev.to badge](https://img.shields.io/badge/linkedin-rammohanbethi-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rammohan-bethi-9160/)
+[![dev.to badge](https://img.shields.io/badge/kaggle-arbethi-%230177B5?style=flat&logo=kaggle)](https://www.kaggle.com/arbethi)
+- ⚡️ Technologies I work with: PYTHON, DATA SCIENCE, DEEP LEAERNING, MACHINE LEARNING, NLP, SPACY, FLASK,TENSORFLOW, SKLEARN, PANDAS, ETC..
+- 💻 All of my projects are available 👉  [here](https://github.com/rammohanbethi?tab=repositories)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support my projects
+
+Giving proper credit when you use any of my Repo.
+
+Thanks!
